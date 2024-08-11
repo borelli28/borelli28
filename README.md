@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a software developer that specializes in building full-stack web applications, I enjoy writing apps in ASP.NET Core and rust when I need maximum performance. I also have some experience using Django and React, which I use for rapid development and interactive user interfaces.
+I'm a software developer that specializes in building full-stack web applications, I enjoy writing apps in ASP.NET Core and when I'm looking for challenge, Rust. I also have some experience developing in Django and React, which I use for rapid development and interactive user interfaces.
 
 ### Frameworks
 - ASP.NET Core
