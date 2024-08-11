@@ -2,11 +2,6 @@
 
 [![roadmap.sh](https://roadmap.sh/card/wide/668ac0a0501413692bca1c9b?variant=dark)](https://roadmap.sh)
 
-### Languages
-- C#
-- Rust
-- Python
-
 ### Frameworks
 - ASP.NET Core
 - Actix Web
