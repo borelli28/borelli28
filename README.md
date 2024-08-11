@@ -8,6 +8,9 @@
 - Django
 - React
 
+### I’m currently working on
+- A full-stack web application using ASP.NET Core.
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=borelli28&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borelli28&layout=compact&theme=dark)
