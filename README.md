@@ -4,6 +4,7 @@ I'm a software developer that specializes in building web applications, I mainly
 ### Frameworks
 - ASP.NET Core
 - Django
-- React
+- Rocket.rs
+- React.js
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borelli28&layout=compact&theme=dark)
